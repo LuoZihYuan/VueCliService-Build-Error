@@ -26,20 +26,20 @@ using linterOptions to exclude "node_modules/**" doesn't seem to work
 ```
  ERROR  Failed to compile with 14 errors                                                                                             10:58:37
 
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.dom.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
- error  in /Users/Phoenix/Developer/VueJS/vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.dom.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
+ error  in vuecliservice-build-error/node_modules/typescript/lib/lib.webworker.d.ts
 
  ERROR  Build failed with errors.
 ```
